@@ -1,9 +1,11 @@
 # dsa-with-java
-This is my first Git Repository
-<br>
+
 <html>
-  <head>   </head>
-    <body style="color:red;">  Author - Sahana 
+  <head>
+    <title> dsa with java    </title>  </head>
+    <body style="color:red;">  
+      <p>This is my first Git Repository
+<br>Author - Sahana</p>
     </body>
 </html>
 
