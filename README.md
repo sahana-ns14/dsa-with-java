@@ -2,9 +2,8 @@
 This is my first Git Repository
 <br>
 <html>
-  <head>
-    <body style="color:red;"></body>
-  </head>
-  Author - Sahana 
+  <head>   </head>
+    <body style="color:red;">  Author - Sahana 
+    </body>
 </html>
 
